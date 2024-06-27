@@ -1,0 +1,8 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["online_time":103028,"zjvip":(["times":0,"last_vip_set":1719273162,"level":0,]),"qi":2110,"per":10,"born_family":"西域人氏","env":(["wimpy":60,]),"taptap2":1,"special_skill":(["lucky":1,]),"shen":0,"character":"狡黠多变","str":13,"title":"普通百姓","kar":26,"shen_type":0,"startroom":"/d/xingxiu/kedian","con":24,"water":29,"eff_qi":2110,"unit":"位","max_qi":2110,"registered":1,"int":30,"month":4,"can_speak":1,"born":"西域人氏","race":"人类","mud_age":104001,"name":"测试问","dex":13,"eff_jing":1300,"potential":100,"food":29,"channels":({"chat","rumor","party","bill","sos","family","ic","rultra","sys",}),"sec_id":"$6$54JRfyse5pY8JaKT$sSAoThd8S3YmAuZ9iH5zD4WNFLyR1zuQRNK.yyhTxOynFoYEzOVc9.XkMfaLxF0jQvANavO3gopcHy8ADYXXN.","limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"id":"demodemo","purename":"测试问","jing":1300,"gender":"女性","last_ip":"192.168.2.129","surname":0,"last_save":1719272858,"max_jing":1300,"attitude":"peaceful","cwf":"/cmds/usr/menke_system.c","birthday":1719085906,"cwd":"/kungfu/skill/","age":14,])
+autoload ({"/common/bind_obj/clone/baiyi/tencard:2","/common/bind_obj/clone/vip/dan_jiuzhuan:5",})
+ban_say_msg ""

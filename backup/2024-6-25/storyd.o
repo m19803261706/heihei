@@ -1,0 +1,5 @@
+#/adm/daemons/storyd.c
+dbase (["channel_id":"故事精灵",])
+story_name ({"baguadao","beihai","caishen","donghai","guanzhang","hyshan","jindouyun","jiuyang","jiuzhuan","laojun","liandan","lighting","nanhai","nanji","xiyou",})
+history (["caishen":1534733312,"pangtong":1534614595,"beihai":1534765327,"lighting":1534547413,"sanfenjian":1534626503,"jindouyun":1534689557,"jiuyang":1534733312,"mengzi":1534677628,"anthem":1534630617,"huanyin":1534638559,"hyshan":1534705425,"laojun":1534753510,"baguadao":1534741502,"guanzhang":1534721196,"jiuzhuan":1534697561,"xiyou":1534757554,"donghai":1534725379,"master":1534638559,"liandan":1534745677,"bizhen":1534610827,"nanji":1534761619,"shenzhao":1534642351,"nanhai":1534741502,])
+last_update 1534606611

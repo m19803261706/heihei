@@ -1,0 +1,317 @@
+
+#check dir :/adm/
+#check dir :/d/
+    check :/d/city/kedian.c
+*Error in loading object '/d/city/npc/xiaoer'
+
+    check :/d/city/wanan.c
+*Error in loading object '/clone/fuben/wanansi/npc/kutoutuo'
+
+    check :/d/dali/chahua10.c
+*Error in loading object '/d/dali/obj/chahua3'
+
+    check :/d/dali/chahua2.c
+*Error in loading object '/d/dali/obj/chahua1'
+
+    check :/d/dali/chahua3.c
+*Error in loading object '/d/dali/obj/chahua10'
+
+    check :/d/dali/chahua4.c
+*Error in loading object '/d/dali/obj/chahua4'
+
+    check :/d/dali/chahua5.c
+*Error in loading object '/d/dali/obj/chahua13'
+
+    check :/d/dali/chahua6.c
+*Error in loading object '/d/dali/obj/chahua5'
+
+    check :/d/dali/paifang.c
+*Error in loading object '/kungfu/class/hu/huyizhi'
+
+    check :/d/foshan/road10.c
+*Error in loading object '/d/foshan/obj/hua3'
+
+    check :/d/foshan/road14.c
+*Error in loading object '/d/foshan/obj/hua3'
+
+    check :/d/foshan/road2.c
+*Error in loading object '/d/foshan/obj/hua1'
+
+    check :/d/foshan/road9.c
+*Error in loading object '/d/foshan/obj/hua2'
+
+    check :/d/guanwai/xiaowu.c
+*Error in loading object '/kungfu/class/hu/hufei'
+
+    check :/d/guanwai/xiaoyuan.c
+*Error in loading object '/kungfu/class/hu/pingsi'
+
+    check :/d/guiyun/dating.c
+*Error in loading object '/d/guiyun/npc/kezhene'
+
+    check :/d/guiyun/qianyuan.c
+*Error in loading object '/d/guiyun/qianyuan'
+
+    check :/d/guiyun/ship.c
+*Error in loading object '/d/guiyun/npc/haojie'
+
+    check :/d/gumu/shandong.c
+*Error in loading object '/d/gumu/shandong'
+
+    check :/d/gumu/taiyi1.c
+*Error in loading object '/d/gumu/taiyi1'
+
+    check :/d/gumu/taiyi2.c
+*Error in loading object '/d/gumu/taiyi2'
+
+    check :/d/lingjiu/yan.c
+*Error in loading object '/kungfu/class/lingjiu/zhuo'
+
+    check :/d/meizhuang/xiaoyuan.c
+*Error in loading object '/d/meizhuang/npc/ding'
+
+    check :/d/mingjiao/dadian.c
+*Error in loading object '/kungfu/class/mingjiao/fanyao'
+
+    check :/d/mingjiao/gudi2.c
+*Error in loading object '/d/mingjiao/gudi2'
+
+    check :/d/mingjiao/huroom.c
+*Error in loading object '/d/mingjiao/npc/hu'
+
+    check :/d/quanzhen/shijianyan.c
+*Error in loading object '/kungfu/class/quanzhen/yin'
+
+    check :/d/quanzhou/dagou.c
+*Error in loading object '/d/quanzhou/dagou'
+
+    check :/d/quanzhou/jilong.c
+*Error in loading object '/d/quanzhou/jilong'
+
+    check :/d/quanzhou/riyuetang.c
+*Error in loading object '/d/quanzhou/riyuetang'
+
+    check :/d/shaolin/maowu.c
+*Error in loading object '/d/shaolin/npc/miao'
+
+    check :/d/wudang/hutouyan.c
+*Error in loading object '/d/wudang/npc/laohu'
+
+    check :/d/xiangyang/jiangjuntang.c
+*Error in loading object '/d/xiangyang/npc/wang'
+
+    check :/d/xingxiu/silk3.c
+*Error in loading object '/d/hangzhou/honghua/obj/cuiyu'
+
+    check :/d/yanziwu/cuixia.c
+*Error in loading object '/d/yanziwu/npc/deng'
+
+    check :/d/yanziwu/pindi.c
+*Error in loading object '/d/yanziwu/npc/gongye'
+
+    check :/d/yanziwu/qinyun.c
+*Error in loading object '/d/yanziwu/npc/bao'
+
+    check :/d/city/npc/xiaoer.c
+*Error in loading object '/d/city/npc/xiaoer'
+
+    check :/d/dali/obj/chahua1.c
+*Error in loading object '/d/dali/obj/chahua1'
+
+    check :/d/dali/obj/chahua10.c
+*Error in loading object '/d/dali/obj/chahua10'
+
+    check :/d/dali/obj/chahua11.c
+*Error in loading object '/d/dali/obj/chahua11'
+
+    check :/d/dali/obj/chahua12.c
+*Error in loading object '/d/dali/obj/chahua12'
+
+    check :/d/dali/obj/chahua13.c
+*Error in loading object '/d/dali/obj/chahua13'
+
+    check :/d/dali/obj/chahua2.c
+*Error in loading object '/d/dali/obj/chahua2'
+
+    check :/d/dali/obj/chahua3.c
+*Error in loading object '/d/dali/obj/chahua3'
+
+    check :/d/dali/obj/chahua4.c
+*Error in loading object '/d/dali/obj/chahua4'
+
+    check :/d/dali/obj/chahua5.c
+*Error in loading object '/d/dali/obj/chahua5'
+
+    check :/d/foshan/obj/hua1.c
+*Error in loading object '/d/foshan/obj/hua1'
+
+    check :/d/foshan/obj/hua2.c
+*Error in loading object '/d/foshan/obj/hua2'
+
+    check :/d/foshan/obj/hua3.c
+*Error in loading object '/d/foshan/obj/hua3'
+
+    check :/d/guiyun/npc/hanbaoju.c
+*Error in loading object '/d/guiyun/npc/hanbaoju'
+
+    check :/d/guiyun/npc/hanxiaoyin.c
+*Error in loading object '/d/guiyun/npc/hanxiaoyin'
+
+    check :/d/guiyun/npc/haojie.c
+*Error in loading object '/d/guiyun/npc/haojie'
+
+    check :/d/guiyun/npc/kezhene.c
+*Error in loading object '/d/guiyun/npc/kezhene'
+
+    check :/d/guiyun/npc/nanxiren.c
+*Error in loading object '/d/guiyun/npc/nanxiren'
+
+    check :/d/guiyun/npc/quanjinfa.c
+*Error in loading object '/d/guiyun/npc/quanjinfa'
+
+    check :/d/guiyun/npc/zhangasheng.c
+*Error in loading object '/d/guiyun/npc/zhangasheng'
+
+    check :/d/guiyun/npc/zhucong.c
+*Error in loading object '/d/guiyun/npc/zhucong'
+
+    check :/d/meizhuang/npc/ding.c
+*Error in loading object '/d/meizhuang/npc/ding'
+
+    check :/d/mingjiao/npc/hu.c
+*Error in loading object '/d/mingjiao/npc/hu'
+
+    check :/d/mingjiao/npc/xinmo.c
+*Error in loading object '/d/mingjiao/npc/xinmo'
+
+    check :/d/shaolin/npc/miao.c
+*Error in loading object '/d/shaolin/npc/miao'
+
+    check :/d/wudang/npc/laohu.c
+*Error in loading object '/d/wudang/npc/laohu'
+
+    check :/d/xiangyang/npc/wang.c
+*Error in loading object '/d/xiangyang/npc/wang'
+
+    check :/d/yanziwu/npc/bao.c
+*Error in loading object '/d/yanziwu/npc/bao'
+
+    check :/d/yanziwu/npc/deng.c
+*Error in loading object '/d/yanziwu/npc/deng'
+
+    check :/d/yanziwu/npc/feng.c
+*Error in loading object '/d/yanziwu/npc/feng'
+
+    check :/d/yanziwu/npc/gongye.c
+*Error in loading object '/d/yanziwu/npc/gongye'
+
+    check :/d/fuben/qianchipu/npc/sldz.c
+*Error in loading object '/d/fuben/qianchipu/npc/sldz'
+
+    check :/d/fuben/xixia/npc/wushi.c
+*Error in loading object '/d/fuben/xixia/npc/wushi'
+
+    check :/d/hangzhou/honghua/obj/cuiyu.c
+*Error in loading object '/d/hangzhou/honghua/obj/cuiyu'
+
+#check dir :/kungfu/
+    check :/kungfu/skill/riyue-lun.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+    check :/kungfu/skill/sougu-yingzhua.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+    check :/kungfu/skill/tianluo-diwang.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+    check :/kungfu/class/hu/hufei.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+    check :/kungfu/class/hu/huyizhi.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+    check :/kungfu/class/hu/pingsi.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+    check :/kungfu/class/lingjiu/zhuo.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+    check :/kungfu/class/mingjiao/fanyao.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+    check :/kungfu/class/mingjiao/yangxiao.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+    check :/kungfu/class/quanzhen/yin.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+#check dir :/kungfu/
+    check :/kungfu/skill/riyue-lun.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+    check :/kungfu/skill/sougu-yingzhua.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+    check :/kungfu/skill/tianluo-diwang.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+    check :/kungfu/class/hu/hufei.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+    check :/kungfu/class/hu/huyizhi.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+    check :/kungfu/class/hu/pingsi.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+    check :/kungfu/class/lingjiu/zhuo.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+    check :/kungfu/class/mingjiao/fanyao.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+    check :/kungfu/class/mingjiao/yangxiao.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+    check :/kungfu/class/quanzhen/yin.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+#check dir :/feature/
+#check dir :/inherit/
+#check dir :/clone/
+    check :/clone/meskill/invent.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+    check :/clone/misc/card.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+    check :/clone/misc/newcard.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+    check :/clone/fuben/wanansi/npc/hero.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+    check :/clone/fuben/wanansi/npc/kutoutuo.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+    check :/clone/fuben/wanansi/npc/sldizi.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+#check dir :/clone/
+    check :/clone/meskill/invent.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+    check :/clone/misc/card.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+    check :/clone/misc/newcard.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+    check :/clone/fuben/wanansi/npc/hero.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+    check :/clone/fuben/wanansi/npc/kutoutuo.c
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+    check :/clone/fuben/wanansi/npc/sldizi.c
+*cannot move `/log/debug.log' to `/log/debug.bak'

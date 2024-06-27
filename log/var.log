@@ -1,0 +1,11 @@
+/cmds/std/wash.c line 93: Warning: Unused local variable 'f'
+┏/cmds/std/wash.c @line=93, Unused variable=f
+----write_file name==/cmds/std/wash.c end.....
+
+/cmds/std/fill.c line 43: Warning: Unused local variable 'f'
+┏/cmds/std/fill.c @line=43, Unused variable=f
+----write_file name==/cmds/std/fill.c end.....
+
+/cmds/skill/invent.c line 399: Warning: Unused local variable 'skill_name'
+┏/cmds/skill/invent.c @line=399, Unused variable=skill_name
+-----------write file name==/cmds/skill/invent.c end.....

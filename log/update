@@ -1,0 +1,950 @@
+Sat Jan 20 11:39:50 2024：demodemo 重新编译 /adm/daemons/meridiand.c：发生错误：
+*Error in loading object '/adm/daemons/meridiand'
+
+Sat Jan 20 11:54:41 2024：demodemo 重新编译 /adm/daemons/meridiand.c：成功！
+Sat Jan 20 11:55:38 2024：demodemo 重新编译 /adm/daemons/saled.c：发生错误：
+*Error in loading object '/adm/daemons/saled'
+
+Sat Jan 20 11:56:09 2024：demodemo 重新编译 /adm/daemons/saled.c：发生错误：
+*Error in loading object '/adm/daemons/saled'
+
+Sat Jan 20 11:56:52 2024：demodemo 重新编译 /adm/daemons/saled.c：发生错误：
+*Error in loading object '/adm/daemons/saled'
+
+Sat Jan 20 11:57:30 2024：demodemo 重新编译 /adm/daemons/saled.c：成功！
+Sat Jan 20 11:57:32 2024：demodemo 重新编译 /adm/daemons/saled.c：成功！
+Sat Jan 20 12:02:10 2024：demodemo 重新编译 /adm/daemons/saled.c：发生错误：
+*Error in loading object '/adm/daemons/saled'
+
+Sat Jan 20 12:03:10 2024：demodemo 重新编译 /adm/daemons/saled.c：发生错误：
+*Error in loading object '/adm/daemons/saled'
+
+Sat Jan 20 12:03:36 2024：demodemo 重新编译 /adm/daemons/saled.c：成功！
+Sat Jan 20 12:03:38 2024：demodemo 重新编译 /adm/daemons/saled.c：成功！
+Tue Jan 23 12:44:47 2024：demodemo 重新编译 /inherit/char/npc.c：发生错误：
+*Error in loading object '/inherit/char/npc'
+
+Tue Jan 23 12:46:33 2024：demodemo 重新编译 /inherit/char/npc.c：发生错误：
+*Error in loading object '/inherit/char/npc'
+
+Tue Jan 23 12:46:33 2024：demodemo 重新编译 /inherit/char/npc.c：发生错误：
+*Error in loading object '/inherit/char/npc'
+
+Tue Jan 23 12:52:14 2024：demodemo 重新编译 /inherit/char/npc.c：成功！
+Tue Jan 23 12:54:48 2024：demodemo 重新编译 /d/foshan/huiguan.c：发生错误：
+*Error in loading object '/d/foshan/huiguan'
+
+Tue Jan 23 14:59:17 2024：demodemo 重新编译 /d/city/daxiao.c：发生错误：
+*Error in loading object '/d/city/daxiao'
+
+Tue Jan 23 17:24:21 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/shenzhao.c'.
+
+Tue Jan 23 17:27:56 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/shenzhao.c'.
+
+Tue Jan 23 17:32:06 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/shenzhao.c'.
+
+Tue Jan 23 17:32:27 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/shenzhao.c'.
+
+Tue Jan 23 17:32:53 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/shenzhao.c'.
+
+Tue Jan 23 17:32:54 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/shenzhao.c'.
+
+Tue Jan 23 17:33:08 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*Undefined function called: select_character
+
+Tue Jan 23 17:33:09 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*Undefined function called: select_character
+
+Tue Jan 23 17:33:17 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*Undefined function called: select_character
+
+Tue Jan 23 17:33:20 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/shenzhao.c'.
+
+Tue Jan 23 17:33:21 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/shenzhao.c'.
+
+Tue Jan 23 17:33:56 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/shenzhao.c'.
+
+Tue Jan 23 17:33:57 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/shenzhao.c'.
+
+Tue Jan 23 17:33:58 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/shenzhao.c'.
+
+Tue Jan 23 17:33:58 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/shenzhao.c'.
+
+Tue Jan 23 17:33:59 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/shenzhao.c'.
+
+Tue Jan 23 17:34:02 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/shenzhao.c'.
+
+Tue Jan 23 17:34:09 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*Undefined function called: select_character
+
+Tue Jan 23 17:34:11 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*Undefined function called: select_character
+
+Tue Jan 23 17:35:08 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/shenzhao.c'.
+
+Tue Jan 23 17:35:28 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/shenzhao.c'.
+
+Tue Jan 23 17:36:08 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/shenzhao.c'.
+
+Tue Jan 23 17:36:40 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/shenzhao.c'.
+
+Tue Jan 23 17:36:57 2024：demodemo 重新编译 /adm/daemons/story/nanhai.c：成功！
+Tue Jan 23 17:37:02 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/shenzhao.c'.
+
+Tue Jan 23 17:37:22 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/shenzhao.c'.
+
+Tue Jan 23 17:37:49 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/shenzhao.c'.
+
+Tue Jan 23 17:37:49 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/shenzhao.c'.
+
+Tue Jan 23 17:37:53 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/shenzhao.c'.
+
+Tue Jan 23 17:38:11 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/shenzhao.c'.
+
+Tue Jan 23 17:38:29 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/shenzhao.c'.
+
+Tue Jan 23 17:38:30 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/shenzhao.c'.
+
+Tue Jan 23 17:38:46 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*Undefined function called: select_character
+
+Tue Jan 23 17:38:47 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*Undefined function called: select_character
+
+Tue Jan 23 17:38:55 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：成功！
+Tue Jan 23 17:39:03 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*Undefined function called: select_character
+
+Tue Jan 23 17:39:11 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/shenzhao.c'.
+
+Tue Jan 23 17:39:41 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*Undefined function called: select_character
+
+Tue Jan 23 17:40:14 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：成功！
+Tue Jan 23 17:40:20 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：成功！
+Tue Jan 23 17:40:49 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：成功！
+Tue Jan 23 17:41:03 2024：demodemo 重新编译 /adm/daemons/story/shenzhao.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/shenzhao.c'.
+
+Tue Jan 23 17:42:27 2024：demodemo 重新编译 /adm/daemons/story/sanfenjian.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/sanfenjian.c'.
+
+Sat Jun 15 16:34:39 2024：demodemo 重新编译 /adm/daemons/story/sanfenjian.c：发生错误：
+*call_other() couldn't find object '/adm/daemons/story/sanfenjian.c'.
+
+Sat Jun 15 16:35:01 2024：demodemo 重新编译 /cmds/adm/test.c：发生错误：
+*Error in loading object '/cmds/adm/test'
+
+Sat Jun 15 16:35:24 2024：demodemo 重新编译 /cmds/adm/test.c：发生错误：
+*Error in loading object '/cmds/adm/test'
+
+Sat Jun 15 16:35:42 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 16:36:13 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 16:36:29 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 16:37:15 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 16:38:51 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 16:39:07 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 16:39:19 2024：demodemo 重新编译 /cmds/adm/test.c：发生错误：
+*Error in loading object '/cmds/adm/test'
+
+Sat Jun 15 16:39:56 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 16:40:17 2024：demodemo 重新编译 /cmds/adm/test.c：发生错误：
+*Error in loading object '/cmds/adm/test'
+
+Sat Jun 15 16:40:50 2024：demodemo 重新编译 /cmds/adm/test.c：发生错误：
+*Error in loading object '/cmds/adm/test'
+
+Sat Jun 15 16:41:00 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 16:41:22 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 16:41:42 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 16:41:45 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 16:42:15 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 16:42:21 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 16:42:44 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 16:43:26 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 16:45:49 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 16:46:07 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 16:48:02 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 16:48:52 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 16:49:09 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 16:49:28 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 16:50:51 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 16:50:56 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 16:51:34 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 16:52:12 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 16:53:50 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 16:54:59 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 16:57:39 2024：demodemo 重新编译 /cmds/adm/test.c：发生错误：
+*Error in loading object '/cmds/adm/test'
+
+Sat Jun 15 16:57:44 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 16:59:22 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 17:01:55 2024：demodemo 重新编译 /cmds/adm/test.c：发生错误：
+*Error in loading object '/cmds/adm/test'
+
+Sat Jun 15 17:02:19 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 17:03:10 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 17:03:26 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 17:03:33 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 17:04:13 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 17:05:09 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 17:25:16 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 17:26:18 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 17:29:27 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 17:29:55 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 17:31:50 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 17:34:57 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 17:59:28 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 18:00:04 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 18:00:13 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 18:04:17 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 18:09:33 2024：demodemo 重新编译 /cmds/adm/test.c：发生错误：
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+Sat Jun 15 18:09:56 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 18:09:57 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 18:10:23 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 18:23:30 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 18:24:48 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 18:24:58 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 18:25:52 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 18:26:11 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 18:26:17 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 18:26:19 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 18:26:55 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 18:27:27 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 18:28:36 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 18:29:22 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sat Jun 15 18:31:07 2024：demodemo 重新编译 /cmds/adm/test.c：成功！
+Sun Jun 16 17:07:43 2024：demodemo 重新编译 /adm/special_ob/zhanling.c：成功！
+Sun Jun 16 17:25:22 2024：demodemo 重新编译 /cmds/usr/zhanling.c：发生错误：
+*Error in loading object '/cmds/usr/zhanling'
+
+Sun Jun 16 17:27:03 2024：demodemo 重新编译 /adm/special_ob/zhanling.c：成功！
+Sun Jun 16 17:28:46 2024：demodemo 重新编译 /cmds/usr/zhanling.c：发生错误：
+*Error in loading object '/cmds/usr/zhanling'
+
+Sun Jun 16 17:33:09 2024：demodemo 重新编译 /cmds/usr/zhanling.c：发生错误：
+*Error in loading object '/cmds/usr/zhanling'
+
+Sun Jun 16 17:34:04 2024：demodemo 重新编译 /cmds/usr/zhanling.c：成功！
+Sun Jun 16 17:34:46 2024：demodemo 重新编译 /adm/special_ob/zhanling.c：成功！
+Sun Jun 16 17:35:10 2024：demodemo 重新编译 /cmds/usr/zhanling.c：成功！
+Sun Jun 16 17:36:01 2024：demodemo 重新编译 /cmds/usr/zhanling.c：成功！
+Sun Jun 16 17:37:06 2024：demodemo 重新编译 /cmds/usr/zhanling.c：成功！
+Sun Jun 16 17:41:25 2024：demodemo 重新编译 /cmds/usr/zhanling.c：成功！
+Sun Jun 16 17:43:12 2024：demodemo 重新编译 /cmds/usr/zhanling.c：成功！
+Sun Jun 16 18:12:59 2024：demodemo 重新编译 /adm/special_ob/zhanling.c：发生错误：
+*Error in loading object '/adm/special_ob/zhanling'
+
+Sun Jun 16 18:13:12 2024：demodemo 重新编译 /adm/special_ob/zhanling.c：成功！
+Sun Jun 16 18:40:33 2024：demodemo 重新编译 /adm/special_ob/zhanling.c：成功！
+Sun Jun 16 18:40:44 2024：demodemo 重新编译 /adm/special_ob/zhanling.c：成功！
+Sun Jun 16 18:41:08 2024：demodemo 重新编译 /cmds/usr/zhanling.c：成功！
+Sun Jun 16 18:41:48 2024：demodemo 重新编译 /adm/special_ob/zhanling.c：成功！
+Sun Jun 16 19:44:26 2024：demodemo 重新编译 /adm/special_ob/zhanling.c：成功！
+Mon Jun 17 15:46:14 2024：demodemo 重新编译 /cmds/wiz/copyskill.c：成功！
+Mon Jun 17 15:46:45 2024：demodemo 重新编译 /cmds/wiz/copyskill.c：成功！
+Mon Jun 17 15:46:46 2024：demodemo 重新编译 /cmds/wiz/copyskill.c：成功！
+Mon Jun 17 17:03:53 2024：demo123 重新编译 /clone/vip/qiankun_lingbei.c：发生错误：
+*Error in loading object '/clone/vip/qiankun_lingbei'
+
+Mon Jun 17 17:04:17 2024：demo123 重新编译 /clone/vip/qiankun_lingbei.c：发生错误：
+*Error in loading object '/clone/vip/qiankun_lingbei'
+
+Mon Jun 17 17:04:46 2024：demo123 重新编译 /clone/vip/qiankun_lingbei.c：成功！
+Mon Jun 17 17:20:41 2024：demodemo 重新编译 /cmds/skill/research.c：发生错误：
+*Error in loading object '/cmds/skill/research'
+
+Mon Jun 17 17:20:52 2024：demodemo 重新编译 /cmds/skill/research.c：成功！
+Mon Jun 17 17:30:31 2024：demodemo 重新编译 /cmds/skill/research.c：成功！
+Mon Jun 17 17:33:19 2024：demodemo 重新编译 /cmds/skill/research.c：成功！
+Mon Jun 17 17:36:19 2024：demodemo 重新编译 /cmds/skill/research.c：成功！
+Wed Jun 19 05:36:54 2024：demodemo 重新编译 /cmds/usr/menke_system.c：发生错误：
+*Error in loading object '/cmds/usr/menke_system'
+
+Wed Jun 19 05:37:18 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Wed Jun 19 05:38:23 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Wed Jun 19 05:39:40 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Wed Jun 19 05:40:34 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Wed Jun 19 05:41:00 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Wed Jun 19 05:42:43 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Wed Jun 19 05:42:58 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Wed Jun 19 05:43:22 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Wed Jun 19 05:43:41 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Wed Jun 19 06:37:49 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Wed Jun 19 06:37:53 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Wed Jun 19 06:39:15 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Wed Jun 19 18:51:49 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Wed Jun 19 18:54:20 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Wed Jun 19 18:55:05 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Wed Jun 19 19:08:20 2024：demodemo 重新编译 /cmds/usr/menke_system.c：发生错误：
+*Error in loading object '/cmds/usr/menke_system'
+
+Wed Jun 19 19:08:34 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Wed Jun 19 19:08:36 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Wed Jun 19 19:08:39 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Wed Jun 19 19:12:20 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Wed Jun 19 19:33:11 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Wed Jun 19 20:22:54 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 00:18:25 2024：demodemo 重新编译 /cmds/usr/mycmds.c：成功！
+Thu Jun 20 00:25:10 2024：demodemo 重新编译 /cmds/std/look.c：成功！
+Thu Jun 20 00:26:42 2024：demodemo 重新编译 /cmds/std/look.c：成功！
+Thu Jun 20 00:29:26 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 00:32:35 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 00:36:20 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 00:41:33 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 00:41:49 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 00:42:25 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 00:42:43 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 00:43:50 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 00:44:06 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 00:48:00 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 00:54:34 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 01:20:33 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：发生错误：
+*Error in loading object '/adm/special_ob/menke/npc'
+
+Thu Jun 20 01:20:47 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 01:25:23 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 01:28:21 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 01:31:22 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：发生错误：
+*Error in loading object '/adm/special_ob/menke/npc'
+
+Thu Jun 20 01:31:55 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：发生错误：
+*Error in loading object '/adm/special_ob/menke/npc'
+
+Thu Jun 20 01:32:17 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 01:53:13 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 01:53:40 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 02:05:50 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 02:09:00 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 02:09:05 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：发生错误：
+*Error in loading object '/adm/special_ob/menke/npc'
+
+Thu Jun 20 02:09:21 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 02:10:07 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 02:10:34 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 02:21:36 2024：demodemo 重新编译 /d/fuben_caoren/caoren.c：成功！
+Thu Jun 20 02:48:51 2024：demodemo 重新编译 /feature/damage.c：成功！
+Thu Jun 20 03:24:44 2024：demodemo 重新编译 /adm/daemons/topd.c：成功！
+Thu Jun 20 03:45:47 2024：demodemo 重新编译 /adm/daemons/questd.c：成功！
+Thu Jun 20 03:48:56 2024：demodemo 重新编译 /kungfu/class/generate/killed.c：成功！
+Thu Jun 20 04:01:05 2024：demodemo 重新编译 /adm/daemons/questd.c：成功！
+Thu Jun 20 04:01:14 2024：demodemo 重新编译 /adm/daemons/questd.c：成功！
+Thu Jun 20 04:35:20 2024：demodemo 重新编译 /adm/daemons/questd.c：成功！
+Thu Jun 20 04:46:00 2024：demodemo 重新编译 /cmds/usr/walk.c：成功！
+Thu Jun 20 04:51:04 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 04:54:19 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 04:54:58 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 04:55:19 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 05:53:38 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：发生错误：
+*Error in loading object '/adm/special_ob/menke/npc'
+
+Thu Jun 20 05:53:51 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：发生错误：
+*Error in loading object '/adm/special_ob/menke/npc'
+
+Thu Jun 20 05:54:18 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 05:56:45 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 06:05:49 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 06:06:29 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 06:06:57 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 06:07:25 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 06:08:09 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 06:08:40 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 06:09:31 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 06:10:51 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：发生错误：
+*Error in loading object '/adm/special_ob/menke/npc'
+
+Thu Jun 20 06:11:10 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 06:12:21 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 06:17:24 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 06:18:55 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 06:21:30 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 06:21:34 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 06:56:08 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：发生错误：
+*Error in loading object '/adm/special_ob/menke/npc'
+
+Thu Jun 20 06:56:18 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：发生错误：
+*Error in loading object '/adm/special_ob/menke/npc'
+
+Thu Jun 20 06:56:28 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：发生错误：
+*Error in loading object '/adm/special_ob/menke/npc'
+
+Thu Jun 20 06:57:21 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：发生错误：
+*Error in loading object '/adm/special_ob/menke/npc'
+
+Thu Jun 20 06:57:33 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：发生错误：
+*Error in loading object '/adm/special_ob/menke/npc'
+
+Thu Jun 20 06:58:12 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 06:59:13 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 07:03:30 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 07:08:14 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 07:08:41 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 07:08:48 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 07:08:49 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 07:08:49 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 07:08:49 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 07:08:49 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 07:08:49 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 07:15:05 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 07:16:09 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 07:17:30 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 07:17:41 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 07:17:41 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 07:17:41 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 07:18:04 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 07:18:04 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 07:18:05 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 07:18:05 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 07:18:05 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 07:22:05 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 07:22:08 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 07:22:52 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 07:23:05 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 07:26:27 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：发生错误：
+*Error in loading object '/adm/special_ob/menke/npc'
+
+Thu Jun 20 07:26:41 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：发生错误：
+*Error in loading object '/adm/special_ob/menke/npc'
+
+Thu Jun 20 07:26:51 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 07:27:43 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 16:35:16 2024：demodemo 重新编译 /kungfu/class/generate/killed.c：成功！
+Thu Jun 20 17:20:32 2024：demodemo 重新编译 /adm/daemons/questd.c：成功！
+Thu Jun 20 17:24:07 2024：demodemo 重新编译 /kungfu/class/generate/killed.c：成功！
+Thu Jun 20 17:24:16 2024：demodemo 重新编译 /adm/daemons/questd.c：成功！
+Thu Jun 20 17:25:50 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 17:31:00 2024：demodemo 重新编译 /kungfu/class/generate/killed.c：成功！
+Thu Jun 20 17:31:38 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 18:38:29 2024：demodemo 重新编译 /adm/daemons/questd.c：成功！
+Thu Jun 20 18:42:51 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 18:42:58 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 18:45:36 2024：demodemo 重新编译 /kungfu/class/generate/killed.c：成功！
+Thu Jun 20 18:47:27 2024：demodemo 重新编译 /kungfu/class/generate/killed.c：成功！
+Thu Jun 20 18:48:06 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 18:51:26 2024：demodemo 重新编译 /kungfu/class/generate/killed.c：成功！
+Thu Jun 20 18:54:59 2024：demodemo 重新编译 /adm/daemons/questd.c：成功！
+Thu Jun 20 19:02:11 2024：demodemo 重新编译 /adm/daemons/questd.c：成功！
+Thu Jun 20 19:04:43 2024：demodemo 重新编译 /adm/daemons/questd.c：成功！
+Thu Jun 20 19:10:13 2024：demodemo 重新编译 /adm/daemons/questd.c：成功！
+Thu Jun 20 19:14:10 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 19:18:41 2024：demodemo 重新编译 /adm/daemons/questd.c：成功！
+Thu Jun 20 19:19:09 2024：demodemo 重新编译 /adm/daemons/questd.c：成功！
+Thu Jun 20 19:19:09 2024：demodemo 重新编译 /adm/daemons/questd.c：成功！
+Thu Jun 20 19:19:09 2024：demodemo 重新编译 /adm/daemons/questd.c：成功！
+Thu Jun 20 19:19:09 2024：demodemo 重新编译 /adm/daemons/questd.c：成功！
+Thu Jun 20 19:24:58 2024：demodemo 重新编译 /adm/daemons/questd.c：发生错误：
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+Thu Jun 20 19:25:25 2024：demodemo 重新编译 /adm/daemons/questd.c：成功！
+Thu Jun 20 19:29:38 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 19:39:02 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：发生错误：
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+Thu Jun 20 19:39:12 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：发生错误：
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+Thu Jun 20 19:39:22 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 19:45:06 2024：demodemo 重新编译 /adm/daemons/questd.c：成功！
+Thu Jun 20 19:56:49 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 19:57:22 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 19:57:22 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 19:57:22 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 20:00:53 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：发生错误：
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+Thu Jun 20 20:01:08 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：发生错误：
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+Thu Jun 20 20:01:22 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：发生错误：
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+Thu Jun 20 20:01:39 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Thu Jun 20 20:02:52 2024：demodemo 重新编译 /adm/daemons/questd.c：成功！
+Thu Jun 20 20:08:14 2024：demodemo 重新编译 /adm/daemons/questd.c：成功！
+Thu Jun 20 21:05:16 2024：demodemo 重新编译 /cmds/usr/menke_system.c：发生错误：
+*Error in loading object '/cmds/usr/menke_system'
+
+Thu Jun 20 21:05:48 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 21:07:09 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 21:09:25 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 21:10:54 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 21:12:16 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Thu Jun 20 21:12:22 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Fri Jun 21 00:40:42 2024：demodemo 重新编译 /adm/daemons/questd.c：成功！
+Fri Jun 21 17:04:37 2024：demodemo 重新编译 /cmds/usr/menke_system.c：发生错误：
+*Error in loading object '/cmds/usr/menke_system'
+
+Fri Jun 21 17:04:55 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Fri Jun 21 17:34:10 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Fri Jun 21 17:36:08 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Fri Jun 21 17:36:32 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Fri Jun 21 17:36:49 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Fri Jun 21 17:37:26 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Fri Jun 21 17:37:27 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Fri Jun 21 17:37:27 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Fri Jun 21 17:37:27 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Fri Jun 21 17:38:47 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Fri Jun 21 17:38:47 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Fri Jun 21 17:41:32 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Fri Jun 21 17:48:57 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Fri Jun 21 21:55:59 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Fri Jun 21 21:59:16 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Fri Jun 21 22:29:50 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Fri Jun 21 22:33:13 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Fri Jun 21 22:33:14 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Fri Jun 21 22:33:14 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Fri Jun 21 22:33:14 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Fri Jun 21 22:33:14 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Fri Jun 21 22:34:05 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：发生错误：
+*Error in loading object '/adm/special_ob/menke/npc'
+
+Fri Jun 21 22:34:24 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：发生错误：
+*Error in loading object '/adm/special_ob/menke/npc'
+
+Fri Jun 21 22:34:27 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：发生错误：
+*Error in loading object '/adm/special_ob/menke/npc'
+
+Fri Jun 21 22:34:36 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Fri Jun 21 22:35:40 2024：demodemo 重新编译 /adm/special_ob/menke/menke_manger.c：发生错误：
+*Error in loading object '/adm/special_ob/menke/menke_manger'
+
+Fri Jun 21 22:35:46 2024：demodemo 重新编译 /adm/special_ob/menke/menke_manger.c：成功！
+Fri Jun 21 22:36:59 2024：demodemo 重新编译 /adm/special_ob/menke/menke_manger.c：成功！
+Fri Jun 21 22:39:05 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Fri Jun 21 22:44:44 2024：demodemo 重新编译 /adm/special_ob/menke/menke_manger.c：成功！
+Fri Jun 21 22:45:44 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Fri Jun 21 22:55:15 2024：demodemo 重新编译 /adm/daemons/questd.c：成功！
+Fri Jun 21 22:56:20 2024：demodemo 重新编译 /kungfu/class/generate/killed.c：发生错误：
+*Error in loading object '/kungfu/class/generate/killed'
+
+Fri Jun 21 22:56:27 2024：demodemo 重新编译 /kungfu/class/generate/killed.c：成功！
+Fri Jun 21 23:00:48 2024：demodemo 重新编译 /kungfu/class/generate/killed.c：成功！
+Fri Jun 21 23:00:56 2024：demodemo 重新编译 /adm/daemons/questd.c：成功！
+Fri Jun 21 23:09:18 2024：demodemo 重新编译 /kungfu/class/generate/killed.c：成功！
+Fri Jun 21 23:22:16 2024：demodemo 重新编译 /kungfu/class/generate/killed.c：成功！
+Fri Jun 21 23:23:04 2024：demodemo 重新编译 /kungfu/class/generate/killed.c：成功！
+Fri Jun 21 23:23:21 2024：demodemo 重新编译 /kungfu/class/generate/killed.c：成功！
+Fri Jun 21 23:34:07 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Fri Jun 21 23:36:45 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Fri Jun 21 23:41:49 2024：demodemo 重新编译 /adm/special_ob/menke/menke_manger.c：成功！
+Fri Jun 21 23:45:17 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Sat Jun 22 00:20:14 2024：demodemo 重新编译 /adm/daemons/channeld.c：成功！
+Sat Jun 22 00:24:10 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Sat Jun 22 02:05:32 2024：demodemo 重新编译 /clone/aoyi_book/aoyi_book.c：成功！
+Sat Jun 22 02:10:03 2024：demodemo 重新编译 /cmds\usr\luckdraw.c：成功！
+Sat Jun 22 02:10:09 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 02:11:40 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：发生错误：
+*Error in loading object '/cmds/usr/luckdraw'
+
+Sat Jun 22 02:14:53 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：发生错误：
+*Error in loading object '/cmds/usr/luckdraw'
+
+Sat Jun 22 02:15:39 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 02:35:01 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 02:37:20 2024：demodemo 重新编译 /cmds/usr/mycmds.c：成功！
+Sat Jun 22 02:46:50 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：发生错误：
+*Error in loading object '/cmds/usr/luckdraw'
+
+Sat Jun 22 03:00:48 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：发生错误：
+*Error in loading object '/cmds/usr/luckdraw'
+
+Sat Jun 22 03:01:11 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：发生错误：
+*Error in loading object '/cmds/usr/luckdraw'
+
+Sat Jun 22 03:01:12 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：发生错误：
+*Error in loading object '/cmds/usr/luckdraw'
+
+Sat Jun 22 03:01:13 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：发生错误：
+*Error in loading object '/cmds/usr/luckdraw'
+
+Sat Jun 22 03:01:25 2024：demodemo 重新编译 /adm/special_ob/menke/menke_manger.c：成功！
+Sat Jun 22 03:01:28 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：发生错误：
+*Error in loading object '/cmds/usr/luckdraw'
+
+Sat Jun 22 03:02:34 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 03:03:24 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 03:03:25 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 03:03:25 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 03:03:25 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 03:03:25 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 03:03:26 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 03:03:26 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 03:03:26 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 03:03:26 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 03:03:57 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 03:18:09 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 03:23:56 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 03:26:02 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 03:33:29 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：发生错误：
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+Sat Jun 22 03:50:13 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：发生错误：
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+Sat Jun 22 03:53:28 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 03:53:58 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 04:00:28 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：发生错误：
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+Sat Jun 22 04:00:45 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：发生错误：
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+Sat Jun 22 04:00:56 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 04:05:32 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 04:06:50 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 04:08:29 2024：demodemo 重新编译 /cmds/skill/skills.c：成功！
+Sat Jun 22 04:23:51 2024：demodemo 重新编译 /d/city/guangchang.c：成功！
+Sat Jun 22 04:28:17 2024：demodemo 重新编译 /cmds/adm/tg2r.c：成功！
+Sat Jun 22 04:28:47 2024：demodemo 重新编译 /cmds/adm/tg2r.c：成功！
+Sat Jun 22 04:30:02 2024：demodemo 重新编译 /cmds/adm/tg2r.c：成功！
+Sat Jun 22 04:31:59 2024：demodemo 重新编译 /clone/vip/avipcard.c：发生错误：
+*Error in loading object '/clone/vip/avipcard'
+
+Sat Jun 22 04:32:15 2024：demodemo 重新编译 /clone/vip/avipcard.c：成功！
+Sat Jun 22 04:32:24 2024：demodemo 重新编译 /clone/vip/avipcard.c：成功！
+Sat Jun 22 04:32:24 2024：demodemo 重新编译 /clone/vip/avipcard.c：成功！
+Sat Jun 22 04:32:24 2024：demodemo 重新编译 /clone/vip/avipcard.c：成功！
+Sat Jun 22 04:32:24 2024：demodemo 重新编译 /clone/vip/avipcard.c：成功！
+Sat Jun 22 04:33:55 2024：demodemo 重新编译 /clone/vip/avipcard.c：成功！
+Sat Jun 22 04:33:55 2024：demodemo 重新编译 /clone/vip/avipcard.c：成功！
+Sat Jun 22 04:33:55 2024：demodemo 重新编译 /clone/vip/avipcard.c：成功！
+Sat Jun 22 04:33:55 2024：demodemo 重新编译 /clone/vip/avipcard.c：成功！
+Sat Jun 22 04:33:55 2024：demodemo 重新编译 /clone/vip/avipcard.c：成功！
+Sat Jun 22 04:34:03 2024：demodemo 重新编译 /clone/vip/avipcard.c：成功！
+Sat Jun 22 04:34:04 2024：demodemo 重新编译 /clone/vip/avipcard.c：成功！
+Sat Jun 22 04:34:04 2024：demodemo 重新编译 /clone/vip/avipcard.c：成功！
+Sat Jun 22 04:34:30 2024：demodemo 重新编译 /clone/vip/avipcard.c：成功！
+Sat Jun 22 04:35:03 2024：demodemo 重新编译 /clone/vip/avipcard.c：成功！
+Sat Jun 22 04:35:15 2024：demodemo 重新编译 /clone/vip/avipcard.c：成功！
+Sat Jun 22 05:06:28 2024：demodemo 重新编译 /inherit/item/item.c：成功！
+Sat Jun 22 05:07:31 2024：demodemo 重新编译 /clone/vip/avipcard.c：成功！
+Sat Jun 22 05:10:09 2024：demodemo 重新编译 /clone/vip/baozhu.c：成功！
+Sat Jun 22 05:11:03 2024：demodemo 重新编译 /clone/vip/avipcard.c：成功！
+Sat Jun 22 05:15:16 2024：demodemo 重新编译 /inherit/item/combined.c：成功！
+Sat Jun 22 05:25:59 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 05:33:00 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Sat Jun 22 05:47:04 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 05:48:09 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 05:49:22 2024：demodemo 重新编译 /inherit/char/char.c：成功！
+Sat Jun 22 05:59:29 2024：demodemo 重新编译 /adm/daemons/afkd.c：发生错误：
+*Error in loading object '/adm/daemons/afkd'
+
+Sat Jun 22 05:59:41 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:00:01 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:00:18 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:00:18 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:00:18 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:01:53 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:01:54 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:01:55 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:01:55 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:01:55 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:01:55 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:02:40 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:23:49 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:00 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:00 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:00 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:01 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:01 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:01 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:01 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:01 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:02 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:02 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:02 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:02 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:02 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:02 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:02 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:02 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:02 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:02 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:02 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:02 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:02 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:02 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:02 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:02 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:02 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:02 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:02 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:02 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:02 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:02 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:02 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:25:02 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:26:26 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:26:29 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:26:30 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:26:44 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:26:49 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:26:49 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:26:49 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:27:17 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:28:52 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:29:06 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:29:19 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:29:19 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:30:01 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:37:12 2024：demodemo 重新编译 /adm/daemons/afkd.c：成功！
+Sat Jun 22 06:49:58 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 06:50:55 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 06:51:36 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 06:52:28 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 06:52:56 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 06:53:18 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 07:07:35 2024：demodemo 重新编译 /cmds/usr/score.c：成功！
+Sat Jun 22 07:08:53 2024：demodemo 重新编译 /cmds/usr/hp1.c：成功！
+Sat Jun 22 18:54:24 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Sat Jun 22 18:57:10 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sat Jun 22 19:21:58 2024：demodemo 重新编译 /cmds/usr/score.c：成功！
+Sat Jun 22 19:29:04 2024：demodemo 重新编译 /cmds/usr/maintask.c：成功！
+Sat Jun 22 19:34:11 2024：demodemo 重新编译 /cmds/usr/mycmds.c：成功！
+Sat Jun 22 19:47:43 2024：demodemo 重新编译 /clone/vip/yanzhi.c：成功！
+Sat Jun 22 19:49:30 2024：demodemo 重新编译 /clone/vip/yanzhi.c：成功！
+Sat Jun 22 19:49:51 2024：demodemo 重新编译 /clone/vip/xisuidan.c：成功！
+Sat Jun 22 20:05:18 2024：demodemo 重新编译 /cmds/usr/menke_system.c：发生错误：
+*cannot move `/log/debug.log' to `/log/debug.bak'
+
+Sat Jun 22 20:05:29 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Sat Jun 22 20:07:58 2024：demodemo 重新编译 /cmds/skill/learn.c：成功！
+Sat Jun 22 20:35:03 2024：demodemo 重新编译 /cmds/skill/learn.c：成功！
+Sat Jun 22 20:35:16 2024：demodemo 重新编译 /cmds/skill/learn.c：成功！
+Sat Jun 22 20:35:17 2024：demodemo 重新编译 /cmds/skill/learn.c：成功！
+Sat Jun 22 20:35:17 2024：demodemo 重新编译 /cmds/skill/learn.c：成功！
+Sat Jun 22 20:49:52 2024：demodemo 重新编译 /cmds/skill/learn.c：成功！
+Sat Jun 22 20:49:52 2024：demodemo 重新编译 /cmds/skill/learn.c：成功！
+Sat Jun 22 20:53:43 2024：demodemo 重新编译 /cmds/skill/study.c：成功！
+Sat Jun 22 21:00:46 2024：demodemo 重新编译 /cmds/skill/exercise.c：成功！
+Sat Jun 22 21:01:11 2024：demodemo 重新编译 /cmds/skill/exercise.c：成功！
+Sat Jun 22 21:10:22 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Sat Jun 22 22:04:44 2024：demodemo 重新编译 /cmds/std/special.c：成功！
+Sat Jun 22 22:04:53 2024：demodemo 重新编译 /cmds/usr/mycmds.c：成功！
+Sat Jun 22 22:12:30 2024：demodemo 重新编译 /cmds/std/special.c：成功！
+Sat Jun 22 22:12:55 2024：demodemo 重新编译 /cmds/std/special.c：成功！
+Sat Jun 22 22:13:48 2024：demodemo 重新编译 /cmds/std/special.c：成功！
+Sat Jun 22 22:13:49 2024：demodemo 重新编译 /cmds/std/special.c：成功！
+Sat Jun 22 22:13:49 2024：demodemo 重新编译 /cmds/std/special.c：成功！
+Sat Jun 22 22:13:49 2024：demodemo 重新编译 /cmds/std/special.c：成功！
+Sat Jun 22 22:13:49 2024：demodemo 重新编译 /cmds/std/special.c：成功！
+Sat Jun 22 22:14:14 2024：demodemo 重新编译 /cmds/std/special.c：成功！
+Sat Jun 22 22:14:39 2024：demodemo 重新编译 /cmds/std/special.c：成功！
+Sat Jun 22 22:16:12 2024：demodemo 重新编译 /cmds/std/special.c：成功！
+Sat Jun 22 22:16:43 2024：demodemo 重新编译 /cmds/std/special.c：成功！
+Sat Jun 22 22:17:22 2024：demodemo 重新编译 /cmds/std/special.c：成功！
+Sat Jun 22 23:00:46 2024：demodemo 重新编译 /d/city/qianzhuang.c：成功！
+Sat Jun 22 23:32:28 2024：demodemo 重新编译 /d/fuben_moku/xuemo.c：成功！
+Sat Jun 22 23:47:07 2024：demodemo 重新编译 /cmds/usr/flygo.c：成功！
+Sat Jun 22 23:47:35 2024：demodemo 重新编译 /cmds/usr/flygo.c：成功！
+Sat Jun 22 23:48:14 2024：demodemo 重新编译 /cmds/usr/flygo.c：成功！
+Sat Jun 22 23:55:18 2024：demodemo 重新编译 /d/city/heishi.c：成功！
+Sat Jun 22 23:59:34 2024：demodemo 重新编译 /d/city/heishi.c：成功！
+Sun Jun 23 00:00:25 2024：demodemo 重新编译 /d/city/heishi.c：成功！
+Sun Jun 23 00:01:09 2024：demodemo 重新编译 /d/city/heishi.c：成功！
+Sun Jun 23 00:01:10 2024：demodemo 重新编译 /d/city/heishi.c：成功！
+Sun Jun 23 00:01:10 2024：demodemo 重新编译 /d/city/heishi.c：成功！
+Sun Jun 23 00:05:49 2024：demodemo 重新编译 /d/city/heishi.c：成功！
+Sun Jun 23 02:16:33 2024：demodemo 重新编译 /d/shaolin/beilin2.c：成功！
+Sun Jun 23 03:13:06 2024：demodemo 重新编译 /adm/simul_efun/object.c：成功！
+Sun Jun 23 03:13:18 2024：demodemo 重新编译 /adm/single/simul_efun.c：成功！
+Sun Jun 23 03:14:14 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sun Jun 23 03:14:44 2024：demodemo 重新编译 /cmds/usr/luckdraw.c：成功！
+Sun Jun 23 03:32:28 2024：demodemo 重新编译 /d/huashan/yunuci.c：成功！
+Sun Jun 23 03:34:21 2024：demodemo 重新编译 /d/huashan/yunuci.c：成功！
+Sun Jun 23 03:40:33 2024：demodemo 重新编译 /clone/baiyi/onecrad.c：成功！
+Sun Jun 23 03:43:50 2024：demodemo 重新编译 /cmds/adm/guanggao_obtain.c：成功！
+Sun Jun 23 03:48:09 2024：demodemo 重新编译 /adm/daemons/logind.c：成功！
+Sun Jun 23 03:51:54 2024：demodemo 重新编译 /d/shenlong/npc/chuanfu.c：发生错误：
+*Error in loading object '/d/shenlong/npc/chuanfu'
+
+Sun Jun 23 03:52:04 2024：demodemo 重新编译 /d/shenlong/npc/chuanfu.c：成功！
+Sun Jun 23 13:31:27 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Sun Jun 23 13:36:20 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Sun Jun 23 13:44:21 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Sun Jun 23 13:48:26 2024：demodemo 重新编译 /adm/special_ob/menke/npc.c：成功！
+Sun Jun 23 14:27:03 2024：demodemo 重新编译 /cmds/adm/paym.c：成功！
+Sun Jun 23 14:34:06 2024：demodemo 重新编译 /cmds/usr/new_fanli.c：成功！
+Sun Jun 23 14:39:00 2024：demodemo 重新编译 /cmds/usr/new_fanli.c：成功！
+Sun Jun 23 14:39:01 2024：demodemo 重新编译 /cmds/usr/new_fanli.c：成功！
+Sun Jun 23 14:40:25 2024：demodemo 重新编译 /cmds/usr/new_fanli.c：成功！
+Sun Jun 23 14:40:36 2024：demodemo 重新编译 /cmds/usr/new_fanli.c：成功！
+Sun Jun 23 14:41:52 2024：demodemo 重新编译 /cmds/usr/new_fanli.c：成功！
+Sun Jun 23 14:42:10 2024：demodemo 重新编译 /cmds/usr/new_fanli.c：成功！
+Sun Jun 23 14:42:20 2024：demodemo 重新编译 /cmds/usr/new_fanli.c：成功！
+Sun Jun 23 14:59:26 2024：demodemo 重新编译 /cmds/usr/new_fanli.c：成功！
+Sun Jun 23 15:01:37 2024：demodemo 重新编译 /cmds/usr/new_fanli.c：成功！
+Sun Jun 23 15:02:40 2024：demodemo 重新编译 /cmds/usr/new_fanli.c：成功！
+Sun Jun 23 15:03:25 2024：demodemo 重新编译 /cmds/usr/new_fanli.c：成功！
+Sun Jun 23 15:03:25 2024：demodemo 重新编译 /cmds/usr/new_fanli.c：成功！
+Sun Jun 23 18:00:59 2024：demodemo 重新编译 /adm/npc/shizhe.c：发生错误：
+*Error in loading object '/adm/npc/shizhe'
+
+Sun Jun 23 18:01:10 2024：demodemo 重新编译 /adm/npc/shizhe.c：发生错误：
+*Error in loading object '/adm/npc/shizhe'
+
+Sun Jun 23 18:01:29 2024：demodemo 重新编译 /adm/npc/shizhe.c：发生错误：
+*Error in loading object '/adm/npc/shizhe'
+
+Sun Jun 23 18:01:45 2024：demodemo 重新编译 /adm/npc/shizhe.c：发生错误：
+*Error in loading object '/adm/npc/shizhe'
+
+Sun Jun 23 18:02:17 2024：demodemo 重新编译 /adm/npc/shizhe.c：发生错误：
+*Error in loading object '/adm/npc/shizhe'
+
+Sun Jun 23 18:02:40 2024：demodemo 重新编译 /adm/npc/shizhe.c：发生错误：
+*Error in loading object '/adm/npc/shizhe'
+
+Sun Jun 23 18:02:42 2024：demodemo 重新编译 /adm/npc/shizhe.c：成功！
+Sun Jun 23 18:03:02 2024：demodemo 重新编译 /d/city/kedian.c：成功！
+Sun Jun 23 18:05:25 2024：demodemo 重新编译 /clone/gift/new_gift1.c：成功！
+Sun Jun 23 18:30:43 2024：demodemo 重新编译 /cmds/std/libao_duihuan.c：成功！
+Sun Jun 23 18:33:43 2024：demodemo 重新编译 /cmds/std/libao_duihuan.c：成功！
+Sun Jun 23 18:34:33 2024：demodemo 重新编译 /cmds/std/libao_duihuan.c：成功！
+Sun Jun 23 19:47:28 2024：demodemo 重新编译 /cmds/usr/myshop.c：成功！
+Sun Jun 23 20:03:37 2024：demodemo 重新编译 /cmds/usr/choose_tianfu.c：发生错误：
+*Error in loading object '/cmds/usr/choose_tianfu'
+
+Sun Jun 23 20:05:14 2024：demodemo 重新编译 /cmds/usr/choose_tianfu.c：发生错误：
+*Error in loading object '/cmds/usr/choose_tianfu'
+
+Sun Jun 23 20:06:20 2024：demodemo 重新编译 /cmds/usr/choose_tianfu.c：发生错误：
+*Error in loading object '/cmds/usr/choose_tianfu'
+
+Sun Jun 23 20:06:38 2024：demodemo 重新编译 /cmds/usr/choose_tianfu.c：成功！
+Sun Jun 23 20:07:34 2024：demodemo 重新编译 /cmds/usr/choose_tianfu.c：成功！
+Sun Jun 23 20:08:19 2024：demodemo 重新编译 /cmds/usr/choose_tianfu.c：成功！
+Sun Jun 23 20:08:32 2024：demodemo 重新编译 /cmds/usr/choose_tianfu.c：成功！
+Sun Jun 23 20:14:25 2024：demodemo 重新编译 /cmds/usr/choose_tianfu.c：成功！
+Sun Jun 23 20:14:58 2024：demodemo 重新编译 /cmds/usr/choose_tianfu.c：成功！
+Sun Jun 23 20:17:15 2024：demodemo 重新编译 /cmds/usr/choose_tianfu.c：成功！
+Sun Jun 23 20:17:17 2024：demodemo 重新编译 /cmds/std/special.c：成功！
+Sun Jun 23 20:18:10 2024：demodemo 重新编译 /cmds/usr/choose_tianfu.c：成功！
+Sun Jun 23 20:24:28 2024：demodemo 重新编译 /adm/daemons/aoyid.c：成功！
+Sun Jun 23 20:44:33 2024：demodemo 重新编译 /clone/vip/qiankun_lingbei.c：成功！
+Sun Jun 23 21:24:52 2024：demodemo 重新编译 /cmds/skill/study.c：成功！
+Sun Jun 23 21:25:21 2024：demodemo 重新编译 /cmds/skill/study.c：成功！
+Mon Jun 24 07:00:11 2024：demodemo 重新编译 /adm/daemons/questd.c：成功！
+Mon Jun 24 08:04:45 2024：demodemo 重新编译 /adm/daemons/questd.c：成功！
+Mon Jun 24 08:04:58 2024：demodemo 重新编译 /cmds/usr/bind_shop.c：成功！
+Mon Jun 24 08:22:06 2024：demodemo 重新编译 /cmds/usr/bind_shop.c：成功！
+Mon Jun 24 08:22:37 2024：demodemo 重新编译 /cmds/usr/bind_shop.c：成功！
+Mon Jun 24 08:22:38 2024：demodemo 重新编译 /cmds/usr/bind_shop.c：成功！
+Mon Jun 24 08:22:39 2024：demodemo 重新编译 /cmds/usr/bind_shop.c：成功！
+Mon Jun 24 08:23:01 2024：demodemo 重新编译 /cmds/usr/bind_shop.c：成功！
+Mon Jun 24 08:23:24 2024：demodemo 重新编译 /cmds/usr/bind_shop.c：成功！
+Mon Jun 24 09:05:58 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Mon Jun 24 09:09:31 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Mon Jun 24 09:22:52 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Mon Jun 24 09:35:30 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Mon Jun 24 09:35:31 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Mon Jun 24 09:37:37 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Mon Jun 24 09:44:56 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！
+Mon Jun 24 11:05:41 2024：demodemo 重新编译 /cmds/usr/new_map.c：成功！
+Mon Jun 24 11:06:03 2024：demodemo 重新编译 /cmds/usr/new_map.c：成功！
+Mon Jun 24 11:06:38 2024：demodemo 重新编译 /cmds/usr/new_map.c：成功！
+Mon Jun 24 12:20:47 2024：demodemo 重新编译 /cmds/usr/mycmds.c：成功！
+Tue Jun 25 02:04:05 2024：demodemo 重新编译 /d/huashan/kuihua_2.c：成功！
+Tue Jun 25 02:16:28 2024：demodemo 重新编译 /adm/simul_efun/message.c：成功！
+Tue Jun 25 02:16:45 2024：demodemo 重新编译 /adm/single/simul_efun.c：成功！
+Tue Jun 25 02:20:23 2024：demodemo 重新编译 /kungfu/class/shaolin/qing-fa.c：成功！
+Tue Jun 25 02:20:57 2024：demodemo 重新编译 /d/shaolin/guangchang1.c：成功！
+Tue Jun 25 02:23:26 2024：demodemo 重新编译 /kungfu/class/shaolin/qing-fa.c：成功！
+Tue Jun 25 02:23:28 2024：demodemo 重新编译 /d/shaolin/guangchang1.c：成功！
+Tue Jun 25 02:33:41 2024：demodemo 重新编译 /kungfu/class/xueshan/guoshi.c：成功！
+Tue Jun 25 02:35:04 2024：demodemo 重新编译 /d/huashan/yunuci.c：成功！
+Tue Jun 25 02:35:42 2024：demodemo 重新编译 /d/huashan/kuihua_2.c：成功！
+Tue Jun 25 02:54:24 2024：demodemo 重新编译 /cmds/usr/bind_shop.c：成功！
+Tue Jun 25 02:55:51 2024：demodemo 重新编译 /cmds/usr/bind_shop.c：成功！
+Tue Jun 25 02:56:02 2024：demodemo 重新编译 /cmds/usr/bind_shop.c：成功！
+Tue Jun 25 02:56:02 2024：demodemo 重新编译 /cmds/usr/bind_shop.c：成功！
+Tue Jun 25 02:56:02 2024：demodemo 重新编译 /cmds/usr/bind_shop.c：成功！
+Tue Jun 25 02:56:20 2024：demodemo 重新编译 /cmds/usr/bind_shop.c：成功！
+Tue Jun 25 02:57:05 2024：demodemo 重新编译 /cmds/usr/bind_shop.c：成功！
+Tue Jun 25 03:01:07 2024：demodemo 重新编译 /adm/simul_efun/object.c：发生错误：
+*Error in loading object '/adm/simul_efun/object'
+
+Tue Jun 25 03:01:13 2024：demodemo 重新编译 /adm/simul_efun/object.c：发生错误：
+*Error in loading object '/adm/simul_efun/object'
+
+Tue Jun 25 03:01:20 2024：demodemo 重新编译 /adm/simul_efun/object.c：发生错误：
+*Error in loading object '/adm/simul_efun/object'
+
+Tue Jun 25 03:01:23 2024：demodemo 重新编译 /adm/simul_efun/object.c：发生错误：
+*Error in loading object '/adm/simul_efun/object'
+
+Tue Jun 25 03:01:24 2024：demodemo 重新编译 /adm/simul_efun/object.c：发生错误：
+*Error in loading object '/adm/simul_efun/object'
+
+Tue Jun 25 03:01:42 2024：demodemo 重新编译 /adm/simul_efun/object.c：成功！
+Tue Jun 25 03:01:45 2024：demodemo 重新编译 /adm/simul_efun/object.c：成功！
+Tue Jun 25 03:01:55 2024：demodemo 重新编译 /adm/single/simul_efun.c：成功！
+Tue Jun 25 03:10:29 2024：demodemo 重新编译 /cmds/std/give.c：成功！
+Tue Jun 25 03:12:14 2024：demodemo 重新编译 /cmds/std/give.c：成功！
+Tue Jun 25 03:12:15 2024：demodemo 重新编译 /cmds/std/give.c：成功！
+Tue Jun 25 03:12:15 2024：demodemo 重新编译 /cmds/std/give.c：成功！
+Tue Jun 25 03:14:03 2024：demodemo 重新编译 /cmds/std/give.c：成功！
+Tue Jun 25 03:14:04 2024：demodemo 重新编译 /cmds/std/give.c：成功！
+Tue Jun 25 03:14:04 2024：demodemo 重新编译 /cmds/std/give.c：成功！
+Tue Jun 25 03:26:03 2024：demodemo 重新编译 /adm/npc/moye.c：成功！
+Tue Jun 25 03:39:42 2024：demodemo 重新编译 /cmds/usr/edroom.c：成功！
+Tue Jun 25 03:39:49 2024：demodemo 重新编译 /adm/npc/ganjiang.c：成功！
+Tue Jun 25 04:12:37 2024：demodemo 重新编译 /d/shaolin/putiyuan.c：发生错误：
+*Error in loading object '/d/shaolin/putiyuan'
+
+Tue Jun 25 04:13:42 2024：demodemo 重新编译 /d/shaolin/putiyuan.c：成功！
+Tue Jun 25 04:14:29 2024：demodemo 重新编译 /d/shaolin/putiyuan.c：成功！
+Tue Jun 25 04:15:40 2024：demodemo 重新编译 /d/shaolin/putiyuan.c：成功！
+Tue Jun 25 04:16:34 2024：demodemo 重新编译 /d/shaolin/putiyuan.c：成功！
+Tue Jun 25 04:17:27 2024：demodemo 重新编译 /d/shaolin/putiyuan.c：成功！
+Tue Jun 25 04:18:21 2024：demodemo 重新编译 /d/shaolin/putiyuan.c：成功！
+Tue Jun 25 04:18:28 2024：demodemo 重新编译 /d/shaolin/putiyuan.c：成功！
+Tue Jun 25 04:57:51 2024：demodemo 重新编译 /cmds/usr/mycmds.c：成功！
+Tue Jun 25 05:12:34 2024：demodemo 重新编译 /cmds/usr/mycmds.c：成功！
+Tue Jun 25 05:14:47 2024：demodemo 重新编译 /cmds/usr/mycmds.c：成功！
+Tue Jun 25 05:43:48 2024：demodemo 重新编译 /cmds/skill/learn.c：发生错误：
+*Error in loading object '/cmds/skill/learn'
+
+Tue Jun 25 05:43:56 2024：demodemo 重新编译 /cmds/skill/learn.c：成功！
+Tue Jun 25 05:46:59 2024：demodemo 重新编译 /cmds/skill/learn.c：成功！
+Tue Jun 25 05:50:26 2024：demodemo 重新编译 /cmds/skill/learn.c：成功！
+Tue Jun 25 06:14:03 2024：demodemo 重新编译 /cmds/skill/learn.c：成功！
+Tue Jun 25 06:28:00 2024：demodemo 重新编译 /feature/skill.c：成功！
+Tue Jun 25 06:34:50 2024：demodemo 重新编译 /cmds/skill/learn.c：成功！
+Tue Jun 25 06:40:02 2024：demodemo 重新编译 /cmds/skill/learn.c：成功！
+Tue Jun 25 06:40:46 2024：demodemo 重新编译 /cmds/skill/learn.c：成功！
+Tue Jun 25 06:49:27 2024：demodemo 重新编译 /cmds/usr/flygo.c：成功！
+Tue Jun 25 06:52:36 2024：demodemo 重新编译 /cmds/usr/mycmds.c：成功！
+Tue Jun 25 06:55:07 2024：demodemo 重新编译 /cmds/usr/mycmds.c：成功！
+Tue Jun 25 06:57:09 2024：demodemo 重新编译 /cmds/usr/mycmds.c：成功！
+Tue Jun 25 07:03:40 2024：demodemo 重新编译 /cmds/usr/mycmds.c：成功！
+Tue Jun 25 07:17:10 2024：demodemo 重新编译 /cmds/usr/menke_system.c：成功！

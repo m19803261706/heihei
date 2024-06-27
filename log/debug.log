@@ -1,0 +1,728 @@
+========================================================================
+Full Command Line: E:\mud代码\老争锋\bin\driver.exe E:\mud代码\老争锋\shuiyuzhengfeng_lpc\config.hell 
+Boot Time: Tue Jun 25 07:08:30 2024
+Version: fluffos 20240107-ff7e6173 (Microsoft Windows)
+jemalloc Version: 5.3.0-0-g54eaed1d8b56b1aa528be3bdd1877e59c56fa90c
+ICU Version: 73.2
+========================================================================
+Warning: Signal handler installation failed, not backtrace on crash!
+Final Debug Level: 0
+Processing config file: E:\mud代码\老争锋\shuiyuzhengfeng_lpc\config.hell
+*Warning: obsolete line in config file, please delete:
+	address server ip 
+*Warning: obsolete line in config file, please delete:
+	address server port 
+*Warning: obsolete line in config file, please delete:
+	reserved size 
+*Warning: obsolete line in config file, please delete:
+	binary directory 
+*Warning: obsolete line in config file, please delete:
+	swap file 
+maximum local variables: invalid new value, resetting to default.
+living hash table size: invalid new value, resetting to default.
+New Debug log location: "log/debug.log".
+Execution root: ./
+Initializing internal stuff ....
+Event backend in use: win32
+WARNING: Platform doesn't support eval limit!
+==== Runtime Config Table ====
+time to clean up : 900 # default: 600
+time to reset : 1200 # default: 900
+time to swap : 0 # default: 300
+evaluator stack size : 1000 # default: 65536
+inherit chain size : 30
+maximum evaluation cost : 30000000
+maximum local variables : 64
+maximum call depth : 30 # default: 150
+maximum array size : 9500000 # default: 15000
+maximum buffer size : 40000000 # default: 1048576
+maximum mapping size : 9500000 # default: 150000
+maximum string length : 20000000 # default: 1048576
+maximum bits in a bitfield : 1200 # default: 12000
+maximum byte transfer : 10000 # default: 262144
+maximum read file size : 20000000 # default: 262144
+hash table size : 32768 # default: 65536
+object table size : 8003 # default: 4096
+living hash table size : 256
+gametick msec : 1000
+heartbeat interval msec : 2000 # default: 1000
+sane explode string : 1
+reversible explode string : 0
+sane sorting : 1
+warn tab : 0
+wombles : 0
+call other type check : 0
+call other warn : 0
+mudlib error handler : 1
+no resets : 0
+lazy resets : 0
+randomized resets : 1
+no ansi : 1
+strip before process input : 1
+this_player in call_out : 1
+trace : 1
+trace code : 0
+interactive catch tell : 0
+receive snoop : 1
+snoop shadowed : 0
+reverse defer : 0
+has console : 1
+noninteractive stderr write : 0
+trap crashes : 1
+old type behavior : 0
+old range behavior : 0
+warn old range behavior : 1
+suppress argument warnings : 1
+enable_commands call init : 1
+sprintf add_justified ignore ANSI colors : 1
+call_out(0) nest level : 1000
+trace lpc execution context : 0
+trace lpc instructions : 0
+enable mxp : 0
+enable gmcp : 0
+enable zmp : 0
+enable mssp : 1
+enable msp : 1
+==============================
+==== LPC Predefines ====
+#define FLUFFOS 
+#define HAS_DEBUG_LEVEL 
+#define HAS_ED 
+#define HAS_PRINTF 
+#define MAX_FLOAT 179769313486231570814527423731704356798070567525844996598917476803157260780028538760589558632766878171540458953514382464234321326889464182768467546703537516986049910576551282076245490090389328944075868508455133942304583236903222948165808559332123348274797826204144723168738177180919299881250404026184124858368.000000
+#define MAX_INT 9223372036854775807
+#define MIN_FLOAT 0.000000
+#define MIN_INT -9223372036854775808
+#define MUDOS 
+#define MUD_NAME "璋佷笌浜夐攱"
+#define SIZEOFINT 8
+#define __ARCH__ "Microsoft Windows"
+#define __ARGUMENTS_IN_TRACEBACK__ 
+#define __ARRAY_STATS__ 
+#define __AUTO_SETEUID__ 
+#define __CACHE_STATS__ 
+#define __CALLOUT_HANDLES__ 
+#define __CFG_COMPILER_STACK_SIZE__ 600
+#define __CFG_EVALUATOR_STACK_SIZE__ 65536
+#define __CFG_MAX_CALL_DEPTH__ 150
+#define __CFG_MAX_GLOBAL_VARIABLES__ 65536
+#define __CLASS_STATS__ 
+#define __COMMAND_BUF_SIZE__ 2000
+#define __COMPILER__ "C:/msys64/mingw64/bin/c++.exe"
+#define __CXXFLAGS__ "Broken"
+#define __DEBUG_MACRO__ 
+#define __DEFAULT_DB__ 1
+#define __DEFAULT_PRAGMAS__ PRAGMA_WARNINGS + PRAGMA_SAVE_TYPES + PRAGMA_ERROR_CONTEXT + PRAGMA_OPTIMIZE
+#define __DSLIB__ 
+#define __ED_INDENT_SPACES__ 4
+#define __ED_TAB_WIDTH__ 8
+#define __GET_CHAR_IS_BUFFERED__ 
+#define __HAS_CONSOLE__ 
+#define __HAVE_DIRENT_H__ 1
+#define __HAVE_JEMALLOC__ 1
+#define __HAVE_SIGNAL_H__ 1
+#define __HAVE_SYS_STAT_H__ 1
+#define __HAVE_SYS_TIME_H__ 1
+#define __HAVE_TIME_H__ 1
+#define __LARGEST_PRINTABLE_STRING__ 65535
+#define __LARGE_STRING_SIZE__ 1000
+#define __LOCALS_IN_TRACEBACK__ 
+#define __MAX_SAVE_SVALUE_DEPTH__ 100
+#define __MUDLIB_ERROR_HANDLER__ 
+#define __OLD_ED__ 
+#define __PACKAGES_PACKAGES_H__ 
+#define __PACKAGE_ASYNC__ 
+#define __PACKAGE_COMPRESS__ 
+#define __PACKAGE_CONTRIB__ 
+#define __PACKAGE_CORE__ 
+#define __PACKAGE_CRYPTO__ 
+#define __PACKAGE_DB__ 
+#define __PACKAGE_DEVELOP__ 
+#define __PACKAGE_EXTERNAL__ 
+#define __PACKAGE_MATH__ 
+#define __PACKAGE_MATRIX__ 
+#define __PACKAGE_MUDLIB_STATS__ 
+#define __PACKAGE_OPS__ 
+#define __PACKAGE_PARSER__ 
+#define __PACKAGE_PCRE__ 
+#define __PACKAGE_SHA1__ 
+#define __PACKAGE_SOCKETS__ 
+#define __PACKAGE_TRIM__ 
+#define __PACKAGE_UIDS__ 
+#define __PARSE_DEBUG__ 
+#define __PORT__ 4000
+#define __PRIVS__ 
+#define __PROJECT_VERSION__ "fluffos 20240107-ff7e6173"
+#define __RANDOMIZED_RESETS__ 
+#define __RECEIVE_SNOOP__ 
+#define __REF_RESERVED_WORD__ 
+#define __RESTRICTED_ED__ 
+#define __SANE_EXPLODE_STRING__ 
+#define __SANE_SORTING__ 
+#define __SAVE_EXTENSION__ ".o"
+#define __SAVE_GZ_EXTENSION__ ".o.gz"
+#define __SENSIBLE_MODIFIERS__ 
+#define __SMALL_STRING_SIZE__ 100
+#define __STRING_STATS__ 
+#define __STRUCT_CLASS__ 
+#define __STRUCT_STRUCT__ 
+#define __SUPPRESS_ARGUMENT_WARNINGS__ 
+#define __THIS_PLAYER_IN_CALL_OUT__ 
+#define __TIME_WITH_SYS_TIME__ 1
+#define __TRACE__ 
+#define __TRAP_CRASHES__ 
+#define __USE_32BIT_ADDRESSES__ 
+#define __USE_MYSQL__ 1
+#define __USE_SQLITE3__ 2
+#define __VERSION__ "fluffos 20240107-ff7e6173"
+#define __WARN_OLD_RANGE_BEHAVIOR__ 
+========================
+Loading simul_efun file : /adm/single/simul_efun
+/adm/simul_efun/message.c line 21: Warning: Unused local variable 'single'
+  }
+   ^
+Loading master file: /adm/single/master
+
+Loading preload files ...
+/adm/daemons/logind...
+/adm/daemons/virtuald...
+/adm/daemons/rankd...
+/adm/daemons/commandd...
+/adm/daemons/chinesed...
+/adm/daemons/emoted...
+/adm/daemons/aliasd...
+/adm/daemons/fingerd...
+/adm/daemons/channeld...
+/adm/daemons/natured...
+/adm/daemons/named...
+/adm/daemons/punishd...
+/adm/daemons/storyd...
+/adm/daemons/eventd...
+/adm/daemons/closed...
+/adm/daemons/pkd...
+/adm/daemons/memoryd...
+/adm/daemons/messaged...
+/adm/daemons/backupd...
+/adm/daemons/payd...
+/adm/daemons/mapd...
+/adm/daemons/familyd...
+/adm/daemons/questd...
+/adm/daemons/cpud...
+/adm/daemons/bossd...
+/adm/daemons/giftd...
+/adm/daemons/suitd...
+/adm/daemons/autonpc...
+/adm/daemons/afkd...
+/adm/daemons/afkd.c line 44: Warning: Unused local variable 'tmp'
+  }
+   ^
+/adm/daemons/afkd.c line 355: Warning: Unused local variable 'skill'
+  }
+   ^
+/adm/daemons/afkd.c line 443: Warning: Unused local variable 'i'
+  }
+   ^
+/adm/daemons/afkd.c line 443: Warning: Unused local variable 'book'
+  }
+   ^
+/adm/daemons/afkd.c line 443: Warning: Unused local variable 'ks'
+  }
+   ^
+/adm/daemons/afkd.c line 540: Warning: Unused local variable 'i'
+  }
+   ^
+/adm/daemons/afkd.c line 540: Warning: Unused local variable 'book'
+  }
+   ^
+/adm/daemons/afkd.c line 540: Warning: Unused local variable 'ks'
+  }
+   ^
+/adm/daemons/afkd.c line 540: Warning: Unused local variable 'action_name'
+  }
+   ^
+/adm/daemons/afkd.c line 623: Warning: Unused local variable 'i'
+  }
+   ^
+/adm/daemons/afkd.c line 623: Warning: Unused local variable 'book'
+  }
+   ^
+/adm/daemons/afkd.c line 623: Warning: Unused local variable 'ks'
+  }
+   ^
+/adm/daemons/afkd.c line 623: Warning: Unused local variable 'skill_basic'
+  }
+   ^
+/adm/daemons/afkd.c line 623: Warning: Unused local variable 'action_name'
+  }
+   ^
+/adm/daemons/afkd.c line 812: Warning: Unused local variable 'obs'
+  }
+   ^
+Accepting telnet connections on 0.0.0.0:4000.
+Initializations complete.
+
+/adm/daemons/securityd.c line 84: Warning: Unused local variable 'i'
+  }
+   ^
+/adm/daemons/securityd.c line 197: Warning: Unused local variable 'sec'
+  }
+   ^
+/feature/skill.c line 333: Warning: Unused local variable 'mlvl'
+  }
+   ^
+/adm/daemons/race/human.c line 195: Warning: Unused local variable 'y'
+  }
+   ^
+/clone/misc/baibao.c line 318: Warning: Unused local variable 'item_nb'
+  }
+   ^
+/clone/misc/baibao.c line 318: Warning: Unused local variable 'i'
+  }
+   ^
+/clone/vip/lingzhi.c line 65: Warning: Unused local variable 'ob1'
+  }
+   ^
+/clone/vip/fushougao.c line 39: Warning: Unused local variable 'force'
+  }
+   ^
+/clone/vip/box_chuji.c line 72: Warning: Unused local variable 'obj'
+  }
+   ^
+/clone/vip/ling_wolong.c line 56: Warning: Unused local variable 'family'
+  }
+   ^
+/clone/vip/ling_wolong.c line 56: Warning: Unused local variable 'skills'
+  }
+   ^
+/clone/vip/ling_wolong.c line 56: Warning: Unused local variable 'i'
+  }
+   ^
+/clone/vip/xidianka.c line 128: Warning: Unused local variable 'shuxing'
+  }
+   ^
+/clone/vip/xidianka.c line 128: Warning: Unused local variable 'sname'
+  }
+   ^
+/clone/vip/xidianka.c line 128: Warning: Unused local variable 'i'
+  }
+   ^
+/clone/vip/lingzhi2.c line 49: Warning: Unused local variable 'ob1'
+  }
+   ^
+/clone/vip/lingzhi2.c line 49: Warning: Unused local variable 'times'
+  }
+   ^
+/clone/vip/tianling.c line 49: Warning: Unused local variable 'ob1'
+  }
+   ^
+/inherit/skill/force.c line 190: Warning: Unused local variable 'i'
+  }
+   ^
+/include/ansi.h line 9: Warning: redefinition of #define BLK
+
+  #define RED ESC+"[31m"	  /* Red      *
+  ^
+/include/ansi.h line 10: Warning: redefinition of #define RED
+
+  #define GRN ESC+"[32m"	  /* Green    *
+  ^
+/include/ansi.h line 11: Warning: redefinition of #define GRN
+
+  #define YEL ESC+"[33m"	  /* Yellow   *
+  ^
+/include/ansi.h line 12: Warning: redefinition of #define YEL
+
+  #define BLU ESC+"[34m"	  /* Blue     *
+  ^
+/include/ansi.h line 13: Warning: redefinition of #define BLU
+
+  #define MAG ESC+"[35m"	  /* Magenta  *
+  ^
+/include/ansi.h line 14: Warning: redefinition of #define MAG
+
+  #define CYN ESC+"[36m"	  /* Cyan     *
+  ^
+/include/ansi.h line 15: Warning: redefinition of #define CYN
+
+  #define WHT ESC+"[37m"	  /* White    *
+  ^
+/include/ansi.h line 16: Warning: redefinition of #define WHT
+
+/include/ansi.h line 20: Warning: redefinition of #define HIR
+
+  #define HIG ESC+"[1;32m"	/* Green    *
+  ^
+/include/ansi.h line 21: Warning: redefinition of #define HIG
+
+  #define HIY ESC+"[1;33m"	/* Yellow   *
+  ^
+/include/ansi.h line 22: Warning: redefinition of #define HIY
+
+  #define HIB ESC+"[1;34m"	/* Blue     *
+  ^
+/include/ansi.h line 23: Warning: redefinition of #define HIB
+
+  #define HIM ESC+"[1;35m"	/* Magenta  *
+  ^
+/include/ansi.h line 24: Warning: redefinition of #define HIM
+
+  #define HIC ESC+"[1;36m"	/* Cyan     *
+  ^
+/include/ansi.h line 25: Warning: redefinition of #define HIC
+
+  #define HIW ESC+"[1;37m"	/* White    *
+  ^
+/include/ansi.h line 26: Warning: redefinition of #define HIW
+
+  /* High Intensity Background Colors  *
+  ^
+/include/ansi.h line 30: Warning: redefinition of #define HBRED
+
+  #define HBGRN ESC+"[42;1m"       /* Green    *
+  ^
+/include/ansi.h line 31: Warning: redefinition of #define HBGRN
+
+  #define HBYEL ESC+"[43;1m"       /* Yellow   *
+  ^
+/include/ansi.h line 32: Warning: redefinition of #define HBYEL
+
+  #define HBBLU ESC+"[44;1m"       /* Blue     *
+  ^
+/include/ansi.h line 33: Warning: redefinition of #define HBBLU
+
+  #define HBMAG ESC+"[45;1m"       /* Magenta  *
+  ^
+/include/ansi.h line 34: Warning: redefinition of #define HBMAG
+
+  #define HBCYN ESC+"[46;1m"       /* Cyan     *
+  ^
+/include/ansi.h line 35: Warning: redefinition of #define HBCYN
+
+  #define HBWHT ESC+"[47;1m"       /* White    *
+  ^
+/include/ansi.h line 36: Warning: redefinition of #define HBWHT
+
+/include/ansi.h line 40: Warning: redefinition of #define BBLK
+
+  #define BRED ESC+"[41m"	  /* Red      *
+  ^
+/include/ansi.h line 41: Warning: redefinition of #define BRED
+
+  #define BGRN ESC+"[42m"	  /* Green    *
+  ^
+/include/ansi.h line 42: Warning: redefinition of #define BGRN
+
+  #define BYEL ESC+"[43m"	  /* Yellow   *
+  ^
+/include/ansi.h line 43: Warning: redefinition of #define BYEL
+
+  #define BBLU ESC+"[44m"	  /* Blue     *
+  ^
+/include/ansi.h line 44: Warning: redefinition of #define BBLU
+
+  #define BMAG ESC+"[45m"	  /* Magenta  *
+  ^
+/include/ansi.h line 45: Warning: redefinition of #define BMAG
+
+  #define BCYN ESC+"[46m"	  /* Cyan     *
+  ^
+/include/ansi.h line 46: Warning: redefinition of #define BCYN
+
+  #define NOR ESC+"[2;37;0m"      /* Puts everything back to normal *
+  ^
+/include/ansi.h line 48: Warning: redefinition of #define NOR
+
+/include/ansi.h line 54: Warning: redefinition of #define BOLD
+
+  #define CLR ESC+"[2J"	   /* Clear the screen  *
+  ^
+/include/ansi.h line 55: Warning: redefinition of #define CLR
+
+  #define HOME ESC+"[H"	   /* Send cursor to home position *
+  ^
+/include/ansi.h line 56: Warning: redefinition of #define HOME
+
+  #define REF CLR+HOME	    /* Clear screen and home cursor *
+  ^
+/include/ansi.h line 57: Warning: redefinition of #define REF
+
+  #define BIGTOP ESC+"#3"	 /* Dbl height characters, top half *
+  ^
+/include/ansi.h line 58: Warning: redefinition of #define BIGTOP
+
+  #define BIGBOT ESC+"#4"	 /* Dbl height characters, bottem half *
+  ^
+/include/ansi.h line 59: Warning: redefinition of #define BIGBOT
+
+  #define SAVEC ESC+"[s"	  /* Save cursor position *
+  ^
+/include/ansi.h line 60: Warning: redefinition of #define SAVEC
+
+  #define REST ESC+"[u"	   /* Restore cursor to saved position *
+  ^
+/include/ansi.h line 61: Warning: redefinition of #define REST
+
+  //#define REVINDEX ESC+"M       /* Scroll screen in opposite direction *
+  ^
+/include/ansi.h line 63: Warning: redefinition of #define SINGW
+
+  #define DBL ESC+"#6"	    /* Creates double-width characters *
+  ^
+/include/ansi.h line 64: Warning: redefinition of #define DBL
+
+  #define FRTOP ESC+"[2;25r"      /* Freeze top line *
+  ^
+/include/ansi.h line 65: Warning: redefinition of #define FRTOP
+
+  #define FRBOT ESC+"[1;24r"      /* Freeze bottom line *
+  ^
+/include/ansi.h line 66: Warning: redefinition of #define FRBOT
+
+  #define UNFR ESC+"[r"	   /* Unfreeze top and bottom lines *
+  ^
+/include/ansi.h line 67: Warning: redefinition of #define UNFR
+
+  #define BLINK ESC+"[5m"	 /* Initialize blink mode *
+  ^
+/include/ansi.h line 68: Warning: redefinition of #define BLINK
+
+  #define U ESC+"[4m"	     /* Initialize underscore mode *
+  ^
+/include/ansi.h line 69: Warning: redefinition of #define U
+
+  #define REV ESC+"[7m"	   /* Turns reverse video mode on *
+  ^
+/include/ansi.h line 70: Warning: redefinition of #define REV
+
+  #define HIREV ESC+"[1,7m"       /* Hi intensity reverse video  *
+  ^
+/include/ansi.h line 71: Warning: redefinition of #define HIREV
+
+/cmds/usr/menke_system.c line 239: Warning: Unused local variable 'menke_get_list'
+  }
+   ^
+/cmds/usr/menke_system.c line 368: Warning: Unused local variable 'menke'
+  }
+   ^
+/cmds/usr/menke_system.c line 548: Warning: Unused local variable 'max_level'
+  }
+   ^
+/cmds/usr/menke_system.c line 815: Warning: Unused local variable 'menke_list'
+  }
+   ^
+/d/fuben/qianchipu/qianchipu.c line 80: Warning: Unused local variable 'fam'
+  }
+   ^
+/include/ansi.h line 9: Warning: redefinition of #define BLK
+
+  #define RED ESC+"[31m"	  /* Red      *
+  ^
+/include/ansi.h line 10: Warning: redefinition of #define RED
+
+  #define GRN ESC+"[32m"	  /* Green    *
+  ^
+/include/ansi.h line 11: Warning: redefinition of #define GRN
+
+  #define YEL ESC+"[33m"	  /* Yellow   *
+  ^
+/include/ansi.h line 12: Warning: redefinition of #define YEL
+
+  #define BLU ESC+"[34m"	  /* Blue     *
+  ^
+/include/ansi.h line 13: Warning: redefinition of #define BLU
+
+  #define MAG ESC+"[35m"	  /* Magenta  *
+  ^
+/include/ansi.h line 14: Warning: redefinition of #define MAG
+
+  #define CYN ESC+"[36m"	  /* Cyan     *
+  ^
+/include/ansi.h line 15: Warning: redefinition of #define CYN
+
+  #define WHT ESC+"[37m"	  /* White    *
+  ^
+/include/ansi.h line 16: Warning: redefinition of #define WHT
+
+/include/ansi.h line 20: Warning: redefinition of #define HIR
+
+  #define HIG ESC+"[1;32m"	/* Green    *
+  ^
+/include/ansi.h line 21: Warning: redefinition of #define HIG
+
+  #define HIY ESC+"[1;33m"	/* Yellow   *
+  ^
+/include/ansi.h line 22: Warning: redefinition of #define HIY
+
+  #define HIB ESC+"[1;34m"	/* Blue     *
+  ^
+/include/ansi.h line 23: Warning: redefinition of #define HIB
+
+  #define HIM ESC+"[1;35m"	/* Magenta  *
+  ^
+/include/ansi.h line 24: Warning: redefinition of #define HIM
+
+  #define HIC ESC+"[1;36m"	/* Cyan     *
+  ^
+/include/ansi.h line 25: Warning: redefinition of #define HIC
+
+  #define HIW ESC+"[1;37m"	/* White    *
+  ^
+/include/ansi.h line 26: Warning: redefinition of #define HIW
+
+  /* High Intensity Background Colors  *
+  ^
+/include/ansi.h line 30: Warning: redefinition of #define HBRED
+
+  #define HBGRN ESC+"[42;1m"       /* Green    *
+  ^
+/include/ansi.h line 31: Warning: redefinition of #define HBGRN
+
+  #define HBYEL ESC+"[43;1m"       /* Yellow   *
+  ^
+/include/ansi.h line 32: Warning: redefinition of #define HBYEL
+
+  #define HBBLU ESC+"[44;1m"       /* Blue     *
+  ^
+/include/ansi.h line 33: Warning: redefinition of #define HBBLU
+
+  #define HBMAG ESC+"[45;1m"       /* Magenta  *
+  ^
+/include/ansi.h line 34: Warning: redefinition of #define HBMAG
+
+  #define HBCYN ESC+"[46;1m"       /* Cyan     *
+  ^
+/include/ansi.h line 35: Warning: redefinition of #define HBCYN
+
+  #define HBWHT ESC+"[47;1m"       /* White    *
+  ^
+/include/ansi.h line 36: Warning: redefinition of #define HBWHT
+
+/include/ansi.h line 40: Warning: redefinition of #define BBLK
+
+  #define BRED ESC+"[41m"	  /* Red      *
+  ^
+/include/ansi.h line 41: Warning: redefinition of #define BRED
+
+  #define BGRN ESC+"[42m"	  /* Green    *
+  ^
+/include/ansi.h line 42: Warning: redefinition of #define BGRN
+
+  #define BYEL ESC+"[43m"	  /* Yellow   *
+  ^
+/include/ansi.h line 43: Warning: redefinition of #define BYEL
+
+  #define BBLU ESC+"[44m"	  /* Blue     *
+  ^
+/include/ansi.h line 44: Warning: redefinition of #define BBLU
+
+  #define BMAG ESC+"[45m"	  /* Magenta  *
+  ^
+/include/ansi.h line 45: Warning: redefinition of #define BMAG
+
+  #define BCYN ESC+"[46m"	  /* Cyan     *
+  ^
+/include/ansi.h line 46: Warning: redefinition of #define BCYN
+
+  #define NOR ESC+"[2;37;0m"      /* Puts everything back to normal *
+  ^
+/include/ansi.h line 48: Warning: redefinition of #define NOR
+
+/include/ansi.h line 54: Warning: redefinition of #define BOLD
+
+  #define CLR ESC+"[2J"	   /* Clear the screen  *
+  ^
+/include/ansi.h line 55: Warning: redefinition of #define CLR
+
+  #define HOME ESC+"[H"	   /* Send cursor to home position *
+  ^
+/include/ansi.h line 56: Warning: redefinition of #define HOME
+
+  #define REF CLR+HOME	    /* Clear screen and home cursor *
+  ^
+/include/ansi.h line 57: Warning: redefinition of #define REF
+
+  #define BIGTOP ESC+"#3"	 /* Dbl height characters, top half *
+  ^
+/include/ansi.h line 58: Warning: redefinition of #define BIGTOP
+
+  #define BIGBOT ESC+"#4"	 /* Dbl height characters, bottem half *
+  ^
+/include/ansi.h line 59: Warning: redefinition of #define BIGBOT
+
+  #define SAVEC ESC+"[s"	  /* Save cursor position *
+  ^
+/include/ansi.h line 60: Warning: redefinition of #define SAVEC
+
+  #define REST ESC+"[u"	   /* Restore cursor to saved position *
+  ^
+/include/ansi.h line 61: Warning: redefinition of #define REST
+
+  //#define REVINDEX ESC+"M       /* Scroll screen in opposite direction *
+  ^
+/include/ansi.h line 63: Warning: redefinition of #define SINGW
+
+  #define DBL ESC+"#6"	    /* Creates double-width characters *
+  ^
+/include/ansi.h line 64: Warning: redefinition of #define DBL
+
+  #define FRTOP ESC+"[2;25r"      /* Freeze top line *
+  ^
+/include/ansi.h line 65: Warning: redefinition of #define FRTOP
+
+  #define FRBOT ESC+"[1;24r"      /* Freeze bottom line *
+  ^
+/include/ansi.h line 66: Warning: redefinition of #define FRBOT
+
+  #define UNFR ESC+"[r"	   /* Unfreeze top and bottom lines *
+  ^
+/include/ansi.h line 67: Warning: redefinition of #define UNFR
+
+  #define BLINK ESC+"[5m"	 /* Initialize blink mode *
+  ^
+/include/ansi.h line 68: Warning: redefinition of #define BLINK
+
+  #define U ESC+"[4m"	     /* Initialize underscore mode *
+  ^
+/include/ansi.h line 69: Warning: redefinition of #define U
+
+  #define REV ESC+"[7m"	   /* Turns reverse video mode on *
+  ^
+/include/ansi.h line 70: Warning: redefinition of #define REV
+
+  #define HIREV ESC+"[1,7m"       /* Hi intensity reverse video  *
+  ^
+/include/ansi.h line 71: Warning: redefinition of #define HIREV
+
+/cmds/usr/new_map.c line 175: Warning: Unused local variable 'k'
+  }
+   ^
+/cmds/usr/new_map.c line 175: Warning: Unused local variable 'text'
+  }
+   ^
+/cmds/usr/new_map.c line 359: Warning: Unused local variable 'd'
+  }
+   ^
+/cmds/usr/new_map.c line 359: Warning: Unused local variable 'sname'
+  }
+   ^
+/d/xingxiu/shamo1.c line 21: Warning: Unused local variable 'dest'
+  }
+   ^
+/adm/npc/shizhe.c line 59: Warning: Previous function prototype for ask_newgift1 does not match current function in return type ( void vs string )
+  string ask_newgift1()
+                       ^
+/d/huashan/shanhongpb.c line 67: Warning: Unused local variable 'f'
+  }
+   ^
+/d/city/heishi.c line 219: Warning: Unused local variable 'shuxing'
+  }
+   ^
+/d/city/heishi.c line 219: Warning: Unused local variable 'sname'
+  }
+   ^
+/d/city/heishi.c line 219: Warning: Unused local variable 'i'
+  }
+   ^
+save_svalue: unknown type 64 ignored./clone/npc/feizei.c line 50: Warning: Number of arguments disagrees with previous definition.
+  void init(object me)
+                      ^

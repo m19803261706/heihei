@@ -1,0 +1,8 @@
+#/clone/user/user.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["zjvip":(["times":0,"last_vip_set":1706180414,"level":0,]),"online_time":3328,"qi":600,"per":10,"born_family":"西域人氏","env":(["wimpy":60,]),"special_skill":(["lucky":1,]),"shen":0,"character":"狡黠多变","str":13,"title":"普通百姓","kar":18,"startroom":"/d/xingxiu/kedian","shen_type":0,"con":24,"water":230,"eff_qi":600,"unit":"位","max_qi":600,"registered":1,"int":30,"month":1,"born":"西域人氏","can_speak":1,"race":"人类","mud_age":29345,"dex":13,"name":"测试","channels":({"chat","rumor","party","bill","sos","family","ic","rultra",}),"food":230,"potential":100,"eff_jing":200,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"sec_id":"$6$g5gadSXFoo/.R616$Czb8Fx0DQsY7iOk6rt9F9Sq9Oqe.ID4TV6R7fiZJ1GsdnzqmWI6IostusEOeSl43.x8fyUdqA/pLrCA1grL1S.","purename":"测试","id":"demodemo","jing":200,"gender":"女性","last_ip":"localhost.localdomain","surname":0,"last_save":1706180110,"max_jing":200,"attitude":"peaceful","cwf":"/adm/daemons/story/sanfenjian.c","birthday":1705719716,"cwd":"/cmds/","age":14,])
+autoload ({})
+ban_say_msg ""

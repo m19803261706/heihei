@@ -1,0 +1,7 @@
+#/adm/npc/luban.c
+killer ({})
+want_kills ({})
+PVP_DAMAGE_SCALE 70
+PVP_WOUND_SCALE 60
+dbase (["max_qi":301540,"qi":301540,"no_teach":(["literate":"我可不是教书先生。",]),"int":60,"per":11,"can_speak":1,"race":"人类","nickname":"[1;36m鬼斧神工[2;37;0m","shen":0,"name":"鲁班","dex":10,"eff_jing":2360,"limbs":({"头部","颈部","胸口","后心","左肩","右肩","左臂","右臂","左手","右手","腰间","小腹","左腿","右腿","左脚","右脚",}),"str":10000,"id":"lu ban","jing":2360,"title":"天下第二巧匠","gender":"男性","inquiry":(["买房":,]),"icon":"01075","max_jing":2360,"attitude":"friendly","shen_type":0,"startroom":"/d/room/xiaoyuan","con":18,"eff_qi":301540,"age":1450,"skill_luban":1,"long":"这就是号称天下第二巧匠的建筑大师公输班，不论是造什么样子房屋，在他手下都不是问题。","unit":"位",])
+skills (["drawing":500,"certosina":500,"literate":120,])
